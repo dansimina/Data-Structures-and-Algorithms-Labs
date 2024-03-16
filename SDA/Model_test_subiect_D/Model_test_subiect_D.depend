@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681032774 source:c:\users\lenovo\documents\codeblocks\model_test_subiect_d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

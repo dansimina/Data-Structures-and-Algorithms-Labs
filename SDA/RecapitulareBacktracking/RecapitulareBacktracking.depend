@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685179141 source:c:\users\lenovo\documents\codeblocks\recapitularebacktracking\main.c
+	<stdio.h>
+	<stdlib.h>
+

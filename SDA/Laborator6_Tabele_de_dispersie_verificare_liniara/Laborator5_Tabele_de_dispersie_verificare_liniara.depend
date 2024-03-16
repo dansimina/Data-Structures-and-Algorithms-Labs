@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680619768 source:c:\users\lenovo\documents\codeblocks\laborator5_tabele_de_dispersie_verificare_liniara\main.c
+	<stdio.h>
+	<stdlib.h>
+

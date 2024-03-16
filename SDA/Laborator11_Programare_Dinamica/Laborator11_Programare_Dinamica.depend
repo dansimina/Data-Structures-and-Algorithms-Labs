@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684246803 source:c:\users\lenovo\documents\codeblocks\laborator11_programare_dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+

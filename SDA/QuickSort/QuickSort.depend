@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685195003 source:c:\users\lenovo\documents\codeblocks\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+

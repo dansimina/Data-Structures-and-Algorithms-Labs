@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680948256 source:c:\users\lenovo\documents\codeblocks\problemelaborator2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

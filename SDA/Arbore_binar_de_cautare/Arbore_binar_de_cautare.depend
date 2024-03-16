@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679689239 source:c:\users\lenovo\documents\codeblocks\arbore_binar_de_cautare\main.c
+	<stdio.h>
+	<stdlib.h>
+

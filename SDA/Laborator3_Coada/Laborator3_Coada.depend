@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678809931 source:c:\users\lenovo\documents\codeblocks\laborator3_coada\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684853109 source:c:\users\lenovo\documents\codeblocks\laborator12_devide_et_impera\main.c
+	<stdio.h>
+	<stdlib.h>
+

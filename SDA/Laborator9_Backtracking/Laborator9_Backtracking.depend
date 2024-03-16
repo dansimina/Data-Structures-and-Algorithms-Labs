@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683035446 source:c:\users\lenovo\documents\codeblocks\laborator9_backtracking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

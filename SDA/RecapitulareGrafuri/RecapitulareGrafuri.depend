@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685131570 source:c:\users\lenovo\documents\codeblocks\recapitularegrafuri\main.c
+	<stdio.h>
+	<stdlib.h>
+

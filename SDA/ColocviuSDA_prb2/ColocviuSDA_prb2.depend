@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685510999 source:c:\users\lenovo\documents\codeblocks\colocviusda_prb2\main.c
+	<stdio.h>
+	<stdlib.h>
+

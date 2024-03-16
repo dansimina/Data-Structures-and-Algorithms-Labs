@@ -1,0 +1,6 @@
+unu 1 3
+doi 2 4
+trei 4 6
+patru 1 2
+cinci 2 3
+sase 5 6
