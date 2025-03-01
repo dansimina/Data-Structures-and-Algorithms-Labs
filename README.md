@@ -1,4 +1,4 @@
-# 📌 Data Structures and Algorithms – Implementations and Analysis  
+# 📌 Data Structures and Algorithms
 
 This repository contains various implementations of fundamental data structures and algorithms. The projects cover a wide range of topics, from basic data structures to advanced algorithms like dynamic programming and graph traversal.  
 
