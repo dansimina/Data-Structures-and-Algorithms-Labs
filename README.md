@@ -37,7 +37,7 @@ This repository contains various implementations of fundamental data structures 
 
 ### 🔹 Additional Problems & Tests  
 - **Expression Evaluator** – Parsing and evaluating mathematical expressions.  
-- **Practice Exam Problems** – Sample problems for SDA exams (Subject C & D).  
+- **Practice Exam Problems** – Sample problems for exams.  
 
 ## ⚡ Features  
 
